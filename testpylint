@@ -1,3 +1,5 @@
+##sample code below shows usage of all rules to get pylint perfect score
+
 """this module is for pylint score"""
 # pylint: disable=consider-using-f-string
 def add(number1, number2):
