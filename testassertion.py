@@ -1,3 +1,4 @@
+\**using stack, pop, peek, push and assertequal, is_empty etc to do test assertions using pithon*/
 from unittest import TestCase
 from stack import Stack
 
